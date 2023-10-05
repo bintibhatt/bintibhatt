@@ -14,7 +14,7 @@
 <a href="https://www.hackerearth.com/bintibhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="bintibhatt" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bintibhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bintibhatt" height="30" width="40" /></a>
 </p>-->
-<h3 align="left">Wakatime:</h3>
+<h3 align="left"><a href="https://wakatime.com/@bintibhatt">Wakatime</a>:</h3>
 <a href="https://wakatime.com/@7181b5e4-caec-47de-85ae-84fab49f462b"><img src="https://wakatime.com/badge/user/7181b5e4-caec-47de-85ae-84fab49f462b.svg" alt="Total time coded since Oct 31 2021" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@bintibhatt/461938b5-66dc-413b-bfaf-e4ce42bd1578.png" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@bintibhatt/827268c4-b6f5-4242-b337-2836988789f5.png" /></a>
