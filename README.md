@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bintibhatt" alt="bintibhatt" /></a> </p>-->
 
-- 👨‍💻 Few of my projects are available at [bintibhatt.github.io](bintibhatt.github.io)
+- 👨‍💻 Few of my projects are available at [bintibhatt.github.io](https://bintibhatt.github.io/)
 <h2 align="left">Connect with me:
 <a href="https://linkedin.com/in/bintibhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bintibhatt" height="30" width="40" /></a></h2>
 <!--<a href="https://www.codechef.com/users/bintibhatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bintibhatt" height="30" width="40" /></a>
