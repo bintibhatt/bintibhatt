@@ -1,5 +1,5 @@
 <h1 align="center">Namaste🙏, I'm Binti Bhatt</h1>
-<h3 align="center">Student | WebTech | AI-ML | Alpha Microsoft Learn Student Ambassador| GitHub Global Campus Student</h3>
+<h3 align="center">Student | WebTech | AI-ML | Beta Microsoft Learn Student Ambassador| GitHub Global Campus Student</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=bintibhatt&label=Profile%20views&color=0e75b6&style=flat" alt="bintibhatt" /> </p>-->
 
