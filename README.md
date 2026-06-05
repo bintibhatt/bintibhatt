@@ -22,7 +22,7 @@ My interests span across AI/ML, Data, Full-Stack, Computer Vision, NLP, and Cybe
 
 | Category                  | Technologies                                                                                                        |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **Programming Languages** | Python, JavaScript                                                                                                  |
+| **Programming Languages** | Python, JavaScript             (Prior Experience: C, C++, C#, Java)                                                 |
 | **Frontend Development**  | React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap                                                                  |
 | **Backend Development**   | Node.js, PHP                                                                                                        |
 | **AI & Data**             | Pandas, NumPy, Scikit-learn, OpenCV, MATLAB                                                                         |
