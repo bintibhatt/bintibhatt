@@ -12,9 +12,10 @@ Beta Microsoft Learn Student Ambassador • GitHub Global Campus Student
 Focused on building intelligent applications at the intersection of software engineering, data, and artificial intelligence.
 </p>
 
-
-
 ---
+
+## Something I built for my consistency:
+<img src="https://raw.githubusercontent.com/bintibhatt/buildStreak/main/assets/streak-dashboard.svg" width="100%">
 
 ## Tech Stack
 
