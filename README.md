@@ -1,7 +1,7 @@
 # <h1 align="center">Binti Bhatt</h1>
 
 <h3 align="center">
-AI & Data • Full-Stack • Data 
+AI/ML • Full-Stack • Data 
 </h3>
 
 <p align="center">
